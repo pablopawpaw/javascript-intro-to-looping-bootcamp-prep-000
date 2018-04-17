@@ -7,4 +7,5 @@ function forLoops(array) {
   }
 }
 }
-console.log(forLoops);
+forLoops;
+
